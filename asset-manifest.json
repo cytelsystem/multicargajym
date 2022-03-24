@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/multicargajym/static/css/main.2ca8d519.css",
+    "main.js": "/multicargajym/static/js/main.805fa2f0.js",
+    "index.html": "/multicargajym/index.html",
+    "main.2ca8d519.css.map": "/multicargajym/static/css/main.2ca8d519.css.map",
+    "main.805fa2f0.js.map": "/multicargajym/static/js/main.805fa2f0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2ca8d519.css",
+    "static/js/main.805fa2f0.js"
+  ]
+}
