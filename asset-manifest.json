@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/multicargajym/static/css/main.6e8df073.css",
-    "main.js": "/multicargajym/static/js/main.d615c103.js",
+    "main.css": "/multicargajym/static/css/main.73c7e033.css",
+    "main.js": "/multicargajym/static/js/main.dbc6af75.js",
     "static/media/foundation-icons.svg": "/multicargajym/static/media/foundation-icons.4fa9a353aa62a0124d72.svg",
     "static/media/icomoon.svg?a2c2ra": "/multicargajym/static/media/icomoon.43bc76d27f43fbf1c88a.svg",
     "static/media/foundation-icons.ttf": "/multicargajym/static/media/foundation-icons.c0cbb004854f9c746f89.ttf",
@@ -19,11 +19,11 @@
     "static/media/instagram.svg": "/multicargajym/static/media/instagram.fa0d73713d1c15a87aec.svg",
     "static/media/facebook.svg": "/multicargajym/static/media/facebook.4bf503b3da21cf16aec1.svg",
     "index.html": "/multicargajym/index.html",
-    "main.6e8df073.css.map": "/multicargajym/static/css/main.6e8df073.css.map",
-    "main.d615c103.js.map": "/multicargajym/static/js/main.d615c103.js.map"
+    "main.73c7e033.css.map": "/multicargajym/static/css/main.73c7e033.css.map",
+    "main.dbc6af75.js.map": "/multicargajym/static/js/main.dbc6af75.js.map"
   },
   "entrypoints": [
-    "static/css/main.6e8df073.css",
-    "static/js/main.d615c103.js"
+    "static/css/main.73c7e033.css",
+    "static/js/main.dbc6af75.js"
   ]
 }
