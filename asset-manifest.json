@@ -1,7 +1,11 @@
 {
   "files": {
-    "main.css": "/multicargajym/static/css/main.cc31c507.css",
-    "main.js": "/multicargajym/static/js/main.b20c89a9.js",
+    "main.css": "/multicargajym/static/css/main.8597cad4.css",
+    "main.js": "/multicargajym/static/js/main.137b326a.js",
+    "static/media/img-carousel3.jpg": "/multicargajym/static/media/img-carousel3.9437cb3fb46ba8749843.jpg",
+    "static/media/img-carousel1.jpg": "/multicargajym/static/media/img-carousel1.8c8369cc8f67d73d2dce.jpg",
+    "static/media/img-carousel2.jpg": "/multicargajym/static/media/img-carousel2.6fa4673de8dc6e08fcc4.jpg",
+    "static/media/img-carousel4.jpg": "/multicargajym/static/media/img-carousel4.4a17e6a69ca572258040.jpg",
     "static/media/foundation-icons.svg": "/multicargajym/static/media/foundation-icons.4fa9a353aa62a0124d72.svg",
     "static/media/icomoon.svg?a2c2ra": "/multicargajym/static/media/icomoon.43bc76d27f43fbf1c88a.svg",
     "static/media/foundation-icons.ttf": "/multicargajym/static/media/foundation-icons.c0cbb004854f9c746f89.ttf",
@@ -20,11 +24,11 @@
     "static/media/instagram.svg": "/multicargajym/static/media/instagram.fa0d73713d1c15a87aec.svg",
     "static/media/facebook.svg": "/multicargajym/static/media/facebook.4bf503b3da21cf16aec1.svg",
     "index.html": "/multicargajym/index.html",
-    "main.cc31c507.css.map": "/multicargajym/static/css/main.cc31c507.css.map",
-    "main.b20c89a9.js.map": "/multicargajym/static/js/main.b20c89a9.js.map"
+    "main.8597cad4.css.map": "/multicargajym/static/css/main.8597cad4.css.map",
+    "main.137b326a.js.map": "/multicargajym/static/js/main.137b326a.js.map"
   },
   "entrypoints": [
-    "static/css/main.cc31c507.css",
-    "static/js/main.b20c89a9.js"
+    "static/css/main.8597cad4.css",
+    "static/js/main.137b326a.js"
   ]
 }
