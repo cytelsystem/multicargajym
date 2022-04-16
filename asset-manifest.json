@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/multicargajym/static/css/main.879fcb8e.css",
-    "main.js": "/multicargajym/static/js/main.9c400e14.js",
+    "main.css": "/multicargajym/static/css/main.5c4bc7ec.css",
+    "main.js": "/multicargajym/static/js/main.ff9efbf2.js",
     "static/media/img-carousel3.jpg": "/multicargajym/static/media/img-carousel3.9437cb3fb46ba8749843.jpg",
     "static/media/img-carousel1.jpg": "/multicargajym/static/media/img-carousel1.8c8369cc8f67d73d2dce.jpg",
     "static/media/img-carousel2.jpg": "/multicargajym/static/media/img-carousel2.6fa4673de8dc6e08fcc4.jpg",
@@ -30,11 +30,11 @@
     "static/media/instagram.svg": "/multicargajym/static/media/instagram.fa0d73713d1c15a87aec.svg",
     "static/media/facebook.svg": "/multicargajym/static/media/facebook.4bf503b3da21cf16aec1.svg",
     "index.html": "/multicargajym/index.html",
-    "main.879fcb8e.css.map": "/multicargajym/static/css/main.879fcb8e.css.map",
-    "main.9c400e14.js.map": "/multicargajym/static/js/main.9c400e14.js.map"
+    "main.5c4bc7ec.css.map": "/multicargajym/static/css/main.5c4bc7ec.css.map",
+    "main.ff9efbf2.js.map": "/multicargajym/static/js/main.ff9efbf2.js.map"
   },
   "entrypoints": [
-    "static/css/main.879fcb8e.css",
-    "static/js/main.9c400e14.js"
+    "static/css/main.5c4bc7ec.css",
+    "static/js/main.ff9efbf2.js"
   ]
 }
