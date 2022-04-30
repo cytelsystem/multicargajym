@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/multicargajym/static/css/main.5c4bc7ec.css",
-    "main.js": "/multicargajym/static/js/main.ff9efbf2.js",
+    "main.css": "/multicargajym/static/css/main.545982e8.css",
+    "main.js": "/multicargajym/static/js/main.aeb9827e.js",
     "static/media/img-carousel3.jpg": "/multicargajym/static/media/img-carousel3.9437cb3fb46ba8749843.jpg",
     "static/media/img-carousel1.jpg": "/multicargajym/static/media/img-carousel1.8c8369cc8f67d73d2dce.jpg",
     "static/media/img-carousel2.jpg": "/multicargajym/static/media/img-carousel2.6fa4673de8dc6e08fcc4.jpg",
@@ -16,6 +16,7 @@
     "static/media/foundation-icons.woff": "/multicargajym/static/media/foundation-icons.e765a16d11a4a296dc00.woff",
     "static/media/img4.jpg": "/multicargajym/static/media/img4.ede850de4d24ea63092d.jpg",
     "static/media/img5.jpg": "/multicargajym/static/media/img5.848fcaf5466b7d8b6a7b.jpg",
+    "static/media/WhatsApp Image 2022-03-23 at 9.29.40 PM.jpeg": "/multicargajym/static/media/WhatsApp Image 2022-03-23 at 9.29.40 PM.661030ca9b4e3fb6c78a.jpeg",
     "static/media/icomoon.eot?a2c2ra": "/multicargajym/static/media/icomoon.fbeac775b4690983a828.eot",
     "static/media/icomoon.woff?a2c2ra": "/multicargajym/static/media/icomoon.91964ff2d25505c2d8fb.woff",
     "static/media/icomoon.ttf?a2c2ra": "/multicargajym/static/media/icomoon.f09aaf8035cbfc67f50a.ttf",
@@ -30,11 +31,11 @@
     "static/media/instagram.svg": "/multicargajym/static/media/instagram.fa0d73713d1c15a87aec.svg",
     "static/media/facebook.svg": "/multicargajym/static/media/facebook.4bf503b3da21cf16aec1.svg",
     "index.html": "/multicargajym/index.html",
-    "main.5c4bc7ec.css.map": "/multicargajym/static/css/main.5c4bc7ec.css.map",
-    "main.ff9efbf2.js.map": "/multicargajym/static/js/main.ff9efbf2.js.map"
+    "main.545982e8.css.map": "/multicargajym/static/css/main.545982e8.css.map",
+    "main.aeb9827e.js.map": "/multicargajym/static/js/main.aeb9827e.js.map"
   },
   "entrypoints": [
-    "static/css/main.5c4bc7ec.css",
-    "static/js/main.ff9efbf2.js"
+    "static/css/main.545982e8.css",
+    "static/js/main.aeb9827e.js"
   ]
 }
