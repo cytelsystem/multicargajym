@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/multicargajym/static/css/main.873e700f.css",
-    "main.js": "/multicargajym/static/js/main.95559e64.js",
+    "main.css": "/multicargajym/static/css/main.b7244c97.css",
+    "main.js": "/multicargajym/static/js/main.a6bfc58b.js",
     "static/media/img-carousel3.jpg": "/multicargajym/static/media/img-carousel3.9437cb3fb46ba8749843.jpg",
     "static/media/img-carousel1.jpg": "/multicargajym/static/media/img-carousel1.8c8369cc8f67d73d2dce.jpg",
     "static/media/img-carousel2.jpg": "/multicargajym/static/media/img-carousel2.6fa4673de8dc6e08fcc4.jpg",
@@ -27,16 +27,16 @@
     "static/media/whatsapp.svg": "/multicargajym/static/media/whatsapp.328dc4dc32d01eb77820.svg",
     "static/media/github.svg": "/multicargajym/static/media/github.38e30528403ba22e3cb6.svg",
     "static/media/fi-bujacargo.svg": "/multicargajym/static/media/fi-bujacargo.2f716417c4c5247e8dc1.svg",
-    "static/media/logo.svg": "/multicargajym/static/media/logo.2f716417c4c5247e8dc1ae832ae51f4f.svg",
+    "static/media/logo.svg": "/multicargajym/static/media/logo.2f716417c4c5247e8dc1.svg",
     "static/media/twitter.svg": "/multicargajym/static/media/twitter.0f61c06b1bdbee5c716c.svg",
     "static/media/instagram.svg": "/multicargajym/static/media/instagram.fa0d73713d1c15a87aec.svg",
     "static/media/facebook.svg": "/multicargajym/static/media/facebook.4bf503b3da21cf16aec1.svg",
     "index.html": "/multicargajym/index.html",
-    "main.873e700f.css.map": "/multicargajym/static/css/main.873e700f.css.map",
-    "main.95559e64.js.map": "/multicargajym/static/js/main.95559e64.js.map"
+    "main.b7244c97.css.map": "/multicargajym/static/css/main.b7244c97.css.map",
+    "main.a6bfc58b.js.map": "/multicargajym/static/js/main.a6bfc58b.js.map"
   },
   "entrypoints": [
-    "static/css/main.873e700f.css",
-    "static/js/main.95559e64.js"
+    "static/css/main.b7244c97.css",
+    "static/js/main.a6bfc58b.js"
   ]
 }
